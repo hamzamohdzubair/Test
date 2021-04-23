@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T11:43:26.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 Edg/90.0.818.42" version="14.6.6" etag="59FgAJqHvJ4g5n1AUrNV" type="github"><diagram id="XPJJGq8JvylJrG_reSCE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-23T12:01:11.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36 Edg/90.0.818.42" etag="rSvATyCeB2tsTqWdRk2z" version="14.6.6" type="github">
+  <diagram id="XPJJGq8JvylJrG_reSCE" name="Page-1">
+    <mxGraphModel dx="820" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P13Dc4svFs4EBlfDToGE-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P13Dc4svFs4EBlfDToGE-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P13Dc4svFs4EBlfDToGE-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P13Dc4svFs4EBlfDToGE-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.britannica.com/57/176357-050-EEAD19F6/Armenian-refugee-camp-Caucasus-1920.jpg;" vertex="1" parent="1">
+          <mxGeometry x="165" y="90" width="520" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="P13Dc4svFs4EBlfDToGE-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
